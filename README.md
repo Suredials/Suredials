@@ -1,10 +1,10 @@
 # 💫 ABOUT ME:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact
+🔭 I’m currently working on hacking projects.<br>
+👯 I’m looking to collaborate on anything that interests me.<br>
+🤝 I’m looking for help with anyone who shares my ideas.<br>
+🌱 I’m currently learning new exploitation techniques.<br>
+💬 Ask me about web exploitation<br>
+⚡ Fun fact the university isn't good for shit.
 
 # 💻 TECH STACK:
 ### LANGUAGES:
