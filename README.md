@@ -37,4 +37,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-![](https://visitcount.itsvg.in/api?id=Suredials&icon=6&color=4)
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Suredials&icon=6&color=4" alt="Profile Views">
+</p>
+
